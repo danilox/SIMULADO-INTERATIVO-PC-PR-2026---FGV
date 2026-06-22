@@ -1,0 +1,9 @@
+{
+  "name": "Simulado PC-PR 2026 FGV",
+  "short_name": "PCPR FGV",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f3f6fa",
+  "theme_color": "#123f63",
+  "description": "Simulado interativo PC-PR 2026 FGV com 25 questões de Português e 25 de Informática."
+}
